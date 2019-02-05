@@ -1,2 +1,3 @@
 # padhAI
-All the resources on Deep Learning from One Forth Labs
+Resources on **Deep Learning** course from **One Forth Labs**.
+Website: https://padhai.onefourthlabs.in
